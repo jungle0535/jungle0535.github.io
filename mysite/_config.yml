@@ -4,7 +4,7 @@ email: erinhung.jan11@gmail.com
 description: ...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jungle0535.github.io" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "UA-XXX-X"
 
 # User Settings
 username: Jekflix
