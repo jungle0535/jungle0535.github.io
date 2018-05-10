@@ -1,0 +1,38 @@
+# Site Settings
+title: Jekflix | A theme for Jekyll
+email: erinhung.jan11@gmail.com
+description: ...
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://jungle0535.github.io" # the base hostname & protocol for your site
+google_analytics: "UA-XXXXXXXX-X"
+
+# User Settings
+username: Jekflix
+user_description: ...
+disqus_username: disqus_username
+
+# Social Media
+# Remove the item if you don't need it
+github_username: github_username
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+# Plugins
+gems:
+  - jemoji
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Contact
+    url: /contact/
+
+# Exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
