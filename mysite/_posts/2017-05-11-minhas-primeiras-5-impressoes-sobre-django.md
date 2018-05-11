@@ -2,7 +2,7 @@
 layout: post
 title: "Minhas primeiras 5 impressões sobre Django"
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/v1504809708/django_g7djdj.jpg'
+image: 'https://images.pexels.com/photos/414630/pexels-photo-414630.jpeg?cs=srgb&dl=beverage-break-breakfast-414630.jpg&fm=jpg'
 category: 'django'
 tags:
 - django
